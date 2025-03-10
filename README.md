@@ -32,7 +32,7 @@ $> apt install python3
 
 ### Run
 
-##### Write & Execute
+#### Write & Execute
 
 ```bash
 $> python3 src/interpreter.py
@@ -46,7 +46,7 @@ code $> +++++>,<[>.<-]
 ```
 This script should ask for any character on **input**, then **loop** and **write** it 5 times.
 
-##### Input File
+#### Input File
 
 ```bash
 $> python3 src/interpreter.py
@@ -60,7 +60,7 @@ code $> ../examples/Count10.bf
 ```
 This script should **write** every char from 0 to 9.
 
-##### Argument File
+#### Argument File
 
 ```bash
 $> python3 src/interpreter.py [FilePath]
