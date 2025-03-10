@@ -1,7 +1,7 @@
 
 # Brainfuck to Text
 
-A Brainfuck interpreter writing text depending on the text or file turned in
+A Brainfuck interpreter writing text depending on the input or file turned in
 
 <img src="Demo.gif">
 
