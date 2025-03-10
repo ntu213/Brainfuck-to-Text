@@ -3,7 +3,7 @@
 
 A Brainfuck interpreter writing text depending on the input or file turned in
 
-<!-- <img src="Demo.gif"> -->
+<img src="Demo.gif">
 
 ## What is Brainfuck?
 
