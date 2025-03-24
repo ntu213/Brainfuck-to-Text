@@ -33,8 +33,7 @@ def main():
 	stop = False
 	while entry != "" and not stop:
 		if len(sys.argv) > 1 and code == "":
-			if len(sys.argv) > 1:
-				entry = sys.argv[1]
+			entry = sys.argv[1]
 		else:
 			entry = input("code $> ")
 
