@@ -74,3 +74,5 @@ $> python3 src/interpreter.py ../examples/HelloWorld.bf
 ```
 This script should write the famous **"Hello World!"** sentence.
 
+##### Want to see more? Check my [Text to Brainfuck](github.com/ntu213/Text-to-Brainfuck) project!
+
